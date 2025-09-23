@@ -1,7 +1,7 @@
 // simple Bank balance Program 
  /*
  Name : valentine otieno ogutu 
- Reg no : PA106/28813/25
+ Reg no : PA106/G/28813/25
  Description: Simple Program that displays Bank Account 
   */
   #include<stdio.h> // preprocessing directive: scanf(),
