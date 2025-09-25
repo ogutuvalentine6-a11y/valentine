@@ -23,4 +23,5 @@ int main() {
 		 printf("Unfortunately,we are unable to offer loan at this time");
 	 }
 	 return 0;
+
 }
