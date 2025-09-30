@@ -1,8 +1,8 @@
 //Program to output the water bill
 /*
-Name:
-Reg:
-Description:
+Name:Valentine Otieno ogutu
+Reg:PA106/G/28813/25
+Description: Output the water bill
 */
 
 #include<stdio.h>
@@ -33,4 +33,5 @@ int main(){
     }
     
     return 0;
+
 }
