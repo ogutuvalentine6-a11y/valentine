@@ -1,8 +1,8 @@
-//A program to display offers of data bundles
+//A program  of data bundles
 /*
-Name:Elijah kiprotich ngetich
-Reg:pa106/g/28708/25
-Description:
+Name:VALENTINE OTIENO OGUTU
+Reg:PA106/G/28813/25
+Description: MORE OF DATA BUNDLES
 */
 
 #include<stdio.h>
@@ -38,4 +38,5 @@ int main(){
         printf("Invalid choice");
     }
   return 0;  
+
 }
