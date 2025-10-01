@@ -6,7 +6,8 @@ Description: MORE OF DATA BUNDLES
 */
 
 #include<stdio.h>
-int main(){
+int main()
+{
     int choice;
 
     printf("Select data bundles:\n",choice);
