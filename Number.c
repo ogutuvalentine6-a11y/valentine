@@ -1,7 +1,7 @@
 //Print the numbers from 100 to 50
 /*
-Name:Elijah Kiprotich Ngétich
-Registration:PA106/G/28708/25
+Name:VALENTINE OTIENO OGUTU
+Registration:PA106/G/28813/25
 Describtion:
 */ 
 
@@ -14,4 +14,5 @@ int main()
         printf("%d\t",i);
     }
   return 0;  
+
 }
