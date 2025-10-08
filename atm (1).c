@@ -1,8 +1,8 @@
 //ATM Program to output the balance,windrowal and deposit money
 /*
-Name:
-Reg No:
-date:
+Name:VALENTINE OTIENO OGUTU
+Reg No:PAI06/G/28813/25
+date:8/10/2025
 Description:ATM Program to output the balance,windrowal and deposit money
 */
 
@@ -30,4 +30,5 @@ int main() {
     }
     return 0;
 }
+
     
