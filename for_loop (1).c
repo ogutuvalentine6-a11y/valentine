@@ -1,6 +1,6 @@
 /*
-NAME:Felix Onyancha Moinde
-REG NO:PA106/G/28821/25
+NAME:VALENTINE OTIENO OGUTU
+REG NO:PA106/G/28813/25
 DATE:8th Oct 2025
 DESCRIPTION:Program to print 100-50 in descending order
 */
@@ -18,4 +18,5 @@ int main()
 
 	
 	return 0;
+
 }
