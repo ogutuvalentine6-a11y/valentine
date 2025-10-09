@@ -1,6 +1,6 @@
 /*
-NAME:Felix Onyancha Moinde
-REG NO:PA106/G/28821/25
+NAME:VALENTINE OTIENO OGUTU
+REG NO:PA106/G/28813/25
 DATE:8th Oct 2025
 DESCRIPTION:A guessing game program, prompting the user to enter 
 			any number from 1 - 20
@@ -15,7 +15,7 @@ int main()
 	int guess;
 	int attempts = 0;
 	
-	printf("WELCOME TO FELIX'S GUESSING GAME\n");
+	printf("WELCOME TO VALENTINES GUESSING GAME\n");
 	printf("I'm thinking of a number between 1 and 20.\n");
 	
 	while(guess != secret_number) {
@@ -38,4 +38,5 @@ int main()
 	
 	
 	return 0;
+
 }
