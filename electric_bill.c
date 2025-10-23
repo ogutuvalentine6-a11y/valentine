@@ -1,6 +1,6 @@
 /*
-NAME:Felix Onyancha Moinde 
-REG NO:PA106/G/28821/25
+NAME:Valentine Otieno Ogutu 
+REG NO:PA106/G/28813/25
 DESCRIPTION:A program yo calculate the electric bill per the units cosumed
 */
 
