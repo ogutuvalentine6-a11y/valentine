@@ -1,6 +1,6 @@
 /*
-NAME:Felix Onyancha Moinde 
-REG NO:Pa106/G/28821/25
+NAME:Valentine otieno Ogutu 
+REG NO:PA106/G/28813/25
 DESCRIPTION:A program to covert temp from fahrenheit to degrees 
 */
 
