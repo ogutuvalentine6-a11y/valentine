@@ -1,6 +1,6 @@
 /* hotel management system
-Name:Brian Ouma
-Reg no:PA106/G/28812/25
+Name:Valentine Otieno Ogutu
+Reg no:PA106/G/28813/25
 DESCRIPTION:A hotel management system program
 */
 #include<stdio.h>
@@ -90,4 +90,5 @@ int main(){
 	
 	
 	return 0;
+
 }
