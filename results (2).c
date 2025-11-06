@@ -1,7 +1,7 @@
 
 /*
-Name:Lennis Bahati
-Reg no:PA106/G/28806/25
+Name:VALENTINE OTIENO OGUTU
+Reg no:PA106/G/28813/25
 Description :
 Date:Week 
 */
@@ -96,3 +96,4 @@ int main() {
 
     return 0;
 }
+
