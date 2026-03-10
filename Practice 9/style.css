@@ -1,0 +1,48 @@
+body{
+    background-color: antiquewhite;
+    margin: 10px;
+    padding: 10px;
+    border: 7px solid #ec0c0c;
+
+}
+.main{
+    font-size: large;
+    font-display: block;
+    display: flex;
+    align-items: center;
+     justify-content: center;
+     margin: 20px;
+     padding-bottom: 0.9px;
+     font-size: x-large;
+     font-weight: 100;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     font-style: italic;
+     flex-direction: column;
+
+
+
+
+}
+.wwatu{
+    background-color: rgb(234, 234, 241);
+    font-size: large;
+    margin-bottom: 20px;
+    display: block;
+    font-weight: 200;
+    font-style: italic;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    font-display: block;
+    border-color: rgb(50, 19, 226);
+    padding-block: unset;
+   /*  gap: stylelint-disable-next-line rule; */
+    gap: initial;
+   /*  row-gap: stylelint-disable rule
+    stylelint-enable rule; */
+    /* grid-template-columns: max-content;
+    grid-column: span */
+     font-variation-settings:  stylelint-disable-line rule ; 
+
+
+}
