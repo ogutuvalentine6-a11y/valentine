@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(5, 112, 14);
+    font-size: medium;
+    border: 0.5px;
+    padding: 0.3px;
+    margin: 2px;
+    
+}
+.Action{
+    border: 4px;
+    box-shadow: 0.2px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: 100;
+    font: #ad1717;
+
+}
+.ABOUT{
+    display: flex;
+    flex-direction: column;
+    justify-content: baseline;
+    font-size: 20px;
+    font-weight: 200;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #40460c;
+    margin: 0;
+    padding-bottom: 0.5px;
+    padding-left: 0cm;
+}
+.pic{
+    margin: 9%;
+    padding:3px;
+    border:white;
+    size: 20px;
+    animation:  duration timing-function delay iteration-count direction fill-mode;
+    
+}
