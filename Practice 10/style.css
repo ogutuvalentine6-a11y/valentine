@@ -1,0 +1,64 @@
+.div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(248, 15, 15);
+    font-size: large;
+    font-weight: bold;
+    font-display: block;
+    font-display: block;
+    font-style: normal;
+    font-weight: bold;
+    margin: 2pt;
+    padding: 5pt;
+    border: 5pt;
+    display: flex;
+    gap: 40pt;
+    background-color: rgb(42, 165, 48);
+    text-decoration-color: rgb(158, 6, 6);
+}
+.peter{
+    font-size: large;
+    font-weight: 900;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-display: block;
+    font-style: normal;
+    text-align: center;
+    text-decoration-line:calc();
+    text-overflow: ellipsis;
+    text-size-adjust: stylelint-disable-next-line rule;
+    background-color: rgb(239, 239, 250);
+    font-size: 1cm;
+
+}
+.all{
+    font-style: italic;
+    font-size: x-large;
+    display: contents;
+    align-self: start;
+    padding: 2cm;
+    margin-bottom: 1cm;
+}
+.main{
+    gap: 8cm;
+    display: flex;
+    font-size: 900;
+    text-overflow: ellipsis;
+    font-weight: 600;
+    font: outline;
+}
+.pic{
+    width: 17cm;
+    height: 9cm;
+
+}
+.put{
+    height: 16cm;
+    width: 15cm;
+    background-origin: padding-box;
+   /*  color: #000; */
+}
+.vip{
+    width: 16cm;
+    height:15cm ;
+}
