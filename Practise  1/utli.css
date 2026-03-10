@@ -1,0 +1,113 @@
+body{
+    background-color: rgb(150, 146, 146);
+}
+.container{
+  row-gap: 20px;
+  line-gap-override: 20px;
+  gap: 20px;
+  background-position: 0%;
+  background-color: rgb(248, 202, 141);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+    
+   
+
+}
+.put{
+  /*   display: flex; */
+/*     align-items: center;
+    justify-content: center; */
+    border: 40px;
+    background-color:rgb(37, 62, 100);
+    border-radius: 8px;
+    width: 30%;
+    /*  background: center; */
+     background-position: center;
+         display: flex;
+    flex-direction: column;
+    align-items: center; 
+    justify-content: center;
+   width: 400px;
+   padding: 15px;
+    background-position: center;
+ flex-direction: column;
+ margin-left: 400px;
+
+}
+
+
+.pass{
+font-weight: bold;
+}
+.total{
+border-width: 30px;
+border-left: 80px;
+background-color: rgb(37, 62, 100);
+display: block;
+align-items: center;
+justify-content: center;
+border-radius: 8px;
+width: 30%;
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    justify-content: center;
+    width: 400px;
+   padding: 15px; 
+   margin-left: 400px;
+}
+.enter{
+    border: 100%;
+    width: 100%;
+    background-color: blue;
+    font-weight: bold;
+    text-decoration-color: beige;
+}
+.reset{
+        border: 100%;
+    width: 100%;
+    background-color: rgb(240, 73, 7);
+    font-weight: bold;
+    text-decoration-color: rgb(106, 4, 240);
+}
+.SEAR{
+    background-color: rgb(37, 62, 100);
+    border-radius: 8px;
+    width: 32%;
+     font-size: large;
+      margin-left: 400px;
+   
+}
+.disability{
+    background-color: rgb(37, 62, 100);
+    border-radius: 8px;
+    width: 32%;
+     font-size: large;
+      margin-left: 400px;
+    
+}
+.importance{
+    background-color: rgb(37, 62, 100);
+    text-decoration: solid;
+    border-radius: 8px;
+    width: 32%;
+    font-size: large;
+    margin-left: 400px;
+    
+
+}
+h5{
+    color: rgb(88, 12, 12);
+    font-weight: bold;
+    text-wrap: calc();
+    font-size: large;
+
+}
+h1{
+  color: rgb(241, 3, 134);
+}
+.see{
+    color: rgb(211, 247, 6);
+}
